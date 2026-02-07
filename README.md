@@ -1,7 +1,7 @@
 # Crypto Tracker - Full Stack Application
 
 A production-ready cryptocurrency tracking application with real-time price updates, user authentication, and portfolio management.
-
+scalable cryptocurrency real-time price tracker on aws.
 ## 🏗️ Architecture
 
 ### Backend (Spring Boot)
